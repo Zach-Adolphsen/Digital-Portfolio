@@ -1,0 +1,288 @@
+
+/* HOME PAGE*/
+body.homePage{
+    background-color: #161618;
+}
+
+.homePage .header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    float: inline-start;
+    background-color: rgb(111, 96, 77);
+    width: 200px;
+    text-align: center;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.homePage .aboutButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+.homePage .experienceButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+.homePage .educationButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+.homePage .home_p1{
+    font_size: large;
+    color: white;
+    font-family: Cambria;
+}
+
+.homePage .home_p2{
+    font_size: large;
+    color: white;
+    font-family: Cambria;
+}
+
+/* ABOUT PAGE */
+body.aboutPage{
+    background-color:rgb(250, 239, 225);
+}
+
+.aboutPage .header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    float: inline-start;
+    background-color: rgb(111, 96, 77);
+    width: 200px;
+    text-align: center;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.aboutPage .aboutButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.aboutPage .experienceButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.aboutPage .educationButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+
+/* EXPERIENCE PAGE */
+body.experiencePage{
+    background-color:rgb(250, 239, 225);
+}
+
+.experiencePage .header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    float: inline-start;
+    background-color: rgb(111, 96, 77);
+    width: 200px;
+    text-align: center;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.experiencePage .aboutButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.experiencePage .experienceButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.experiencePage .educationButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+
+/* EDUCATION PAGE */
+body.educationPage{
+    background-color:rgb(250, 239, 225);
+}
+
+.educationPage .header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    float: inline-start;
+    background-color: rgb(111, 96, 77);
+    width: 200px;
+    text-align: center;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.educationPage .aboutButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.educationPage .experienceButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+.educationPage .educationButton{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: bisque;
+    width:  150px;
+    text-align: center;
+    float: initial;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
